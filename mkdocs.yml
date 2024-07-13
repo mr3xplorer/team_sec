@@ -66,11 +66,3 @@ nav:
 
 extra:
   generator: false
-
-markdown_extensions:
-  - admonition
-  - codehilite
-  - footnotes
-  - meta
-  - toc:
-      permalink: true
