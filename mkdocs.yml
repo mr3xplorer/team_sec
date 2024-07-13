@@ -1,0 +1,74 @@
+site_name: Team Sec
+
+theme:
+  name: material
+  palette:
+    primary: black
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.instant
+    - header.autohide
+    - navigation.tabs
+    - toc.integrate
+    - search.highlight
+    - search.inline
+    - search.suggest
+    - navigation.expand
+    - navigation.sections
+
+nav:
+  - Home: index.md
+  - Akash:
+      - Profile: Akash/akash.md
+      - Streaks: Akash/streaks.md
+      - Certifications: Akash/certifications.md
+      - CTF: Akash/ctf.md
+      - Projects: Akash/projects.md
+  - Arun:
+      - Profile: Arun/arun.md
+      - Streaks: Arun/streaks.md
+      - Certifications: Arun/certifications.md
+      - CTF: Arun/ctf.md
+      - Projects: Arun/projects.md
+  - Bharath:
+      - Profile: Bharath/bharat.md
+      - Streaks: Bharath/streaks.md
+      - Certifications: Bharath/certifications.md
+      - CTF: Bharath/ctf.md
+      - Projects: Bharath/projects.md
+  - Hari:
+      - Profile: Hari/hari.md
+      - Streaks: Hari/streaks.md
+      - Certifications: Hari/certifications.md
+      - CTF: Hari/ctf.md
+      - Projects: Hari/projects.md
+  - Maha:
+      - Profile: Maha/maha.md
+      - Streaks: Maha/streaks.md
+      - Certifications: Maha/certifications.md
+      - CTF: Maha/ctf.md
+      - Projects: Maha/projects.md
+  - Vasanth:
+      - Profile: Vasanth/vasanth.md
+      - Streaks: Vasanth/streaks.md
+      - Certifications: Vasanth/certifications.md
+      - CTF: Vasanth/ctf.md
+      - Projects: Vasanth/projects.md
+  - Template:
+      - Profile: members_template/member_profile.md
+      - Streaks: members_template/streaks.md
+      - Certifications: members_template/certifications.md
+      - CTF: members_template/ctf.md
+      - Projects: members_template/projects.md
+
+extra:
+  generator: false
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
