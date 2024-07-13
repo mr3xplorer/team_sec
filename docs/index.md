@@ -1,5 +1,7 @@
 # Team Sec
 
+"Here we are to learn and grow. Skills don't need to be perfect, but be consistent and show your excellence."
+
 ## Dashboard
 
 Track and monitor the performance and learning progress of each team member.
