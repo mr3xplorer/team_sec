@@ -1,5 +1,7 @@
 site_name: Team Sec
 
+repo_url: https://github.com/mr3xplorer/team_sec
+
 theme:
   name: material
   palette:
