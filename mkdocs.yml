@@ -6,8 +6,6 @@ theme:
   name: material
   palette:
     primary: black
-  icon:
-    repo: fontawesome/brands/github
   features:
     - navigation.instant
     - header.autohide
