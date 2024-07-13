@@ -6,6 +6,8 @@ theme:
   name: material
   palette:
     primary: black
+  logo: img/team_sec.png
+  favicon: img/team_sec.png
   features:
     - navigation.instant
     - header.autohide
