@@ -83,8 +83,10 @@ Start Date: 15th July 2024
 
 ---
 
+## Members
+
 <details>
-  <summary><strong>Members of team Sec</strong></summary>
+  <summary><strong>of team Sec</strong></summary>
   
   <ul>
     <li><a href="Vasanth/vasanth.md">Vasanth</a></li>
