@@ -37,17 +37,6 @@ Track and monitor the performance and learning progress of each team member.
   <p>Information on ongoing and completed projects, including documentation and status updates.</p>
 </details>
 
-## Members 
-
-<ul>
-  <li><a href="Vasanth/vasanth.md">Vasanth</a></li>
-  <li><a href="Akash/akash.md">Akash</a></li>
-  <li><a href="Maha/maha.md">Maha</a></li>
-  <li><a href="Hari/hari.md">Hari</a></li>
-  <li><a href="Arun/arun.md">Arun</a></li>
-  <li><a href="Bharath/bharat.md">Bharath</a></li>
-</ul>
-
 ## Team Sec Rules and Responsibilities
 Start Date: 15th July 2024
 
@@ -84,14 +73,28 @@ Start Date: 15th July 2024
   <p>All team members will be contributors to the repository for easy collaboration.</p>
 </details>
 
----
-
 <details>
   <summary><strong>Accountability ☕</strong></summary>
   <ul>
     <li>If you miss your responsibilities, you get three chances.</li>
     <li>After that, you owe everyone coffee or tea!</li>
   </ul>
+</details>
+
+---
+
+<details>
+  <summary><strong>Members of team Sec</strong></summary>
+  
+  <ul>
+    <li><a href="Vasanth/vasanth.md">Vasanth</a></li>
+    <li><a href="Akash/akash.md">Akash</a></li>
+    <li><a href="Maha/maha.md">Maha</a></li>
+    <li><a href="Hari/hari.md">Hari</a></li>
+    <li><a href="Arun/arun.md">Arun</a></li>
+    <li><a href="Bharath/bharat.md">Bharath</a></li>
+  </ul>
+  
 </details>
 
 ---
