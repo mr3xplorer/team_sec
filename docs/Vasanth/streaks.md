@@ -1,9 +1,10 @@
 # Streaks
 
-## Tryhackme Streaks
+- Tryhackme
+[Profile](https://tryhackme.com/p/vasanthabalaji)
 
+- CodeChef 
+[Profile](https://www.codechef.com/users/vasanthabalaji)
 
-
-## CodeChef Profile
-
-<iframe src="https://www.codechef.com/users/vasanthabalaji" width="100%" height="500"></iframe>
+- HackerRank 
+[Profile](https://www.hackerrank.com/profile/vasanthabalaji08)
