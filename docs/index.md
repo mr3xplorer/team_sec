@@ -10,93 +10,88 @@ Track and monitor the performance and learning progress of each team member.
 
 <details>
   <summary><strong>Streaks</strong></summary>
-  
-  Daily activity on platforms like TryHackMe, Hacker Earth, and LeetCode.
-
-  | Platform      | Link                             |
-  |---------------|----------------------------------|
-  | TryHackMe     | [TryHackMe](https://tryhackme.com/) |
-  | HackerRank  | [Hackerrank](https://www.hackerrank.com/) |
-  | CodeChef     | [codechef](codechef.com) |
-  
+  <p>Daily activity on platforms like TryHackMe, Hacker Earth, and LeetCode.</p>
+  <ul>
+    <li><a href="https://tryhackme.com/">TryHackMe</a></li>
+    <li><a href="https://www.hackerearth.com/">Hacker Earth</a></li>
+    <li><a href="https://leetcode.com/">LeetCode</a></li>
+  </ul>
 </details>
 
 <details>
   <summary><strong>Certifications</strong></summary>
-  A list of certifications obtained and those in progress by the team.
+  <p>A list of certifications obtained and those in progress by the team.</p>
 </details>
 
 <details>
   <summary><strong>CTF Participation</strong></summary>
-  
-  Details about Capture the Flag (CTF) events participated in and upcoming events.
-
-  | Event          | Link                             |
-  |----------------|----------------------------------|
-  | Pico CTF        | [PicoCTF](https://picoctf.org/)   |
-  | Over The Wire    | [OverTheWire](https://overthewire.org/wargames/) |
-  
+  <p>Details about Capture the Flag (CTF) events participated in and upcoming events.</p>
+  <ul>
+    <li><a href="https://picoctf.org/">PicoCTF</a></li>
+    <li><a href="https://overthewire.org/wargames/">OverTheWire</a></li>
+  </ul>
 </details>
 
 <details>
   <summary><strong>Projects</strong></summary>
-  Information on ongoing and completed projects, including documentation and status updates.
+  <p>Information on ongoing and completed projects, including documentation and status updates.</p>
 </details>
 
 ## Members 
 
-- [Vasanth](Vasanth/vasanth.md)
-- [Akash](Akash/akash.md)
-- [Maha](Maha/maha.md)
-- [Hari](Hari/hari.md)
-- [Arun](Arun/arun.md)
-- [Bharath](Bharath/bharat.md)
+<ul>
+  <li><a href="Vasanth/vasanth.md">Vasanth</a></li>
+  <li><a href="Akash/akash.md">Akash</a></li>
+  <li><a href="Maha/maha.md">Maha</a></li>
+  <li><a href="Hari/hari.md">Hari</a></li>
+  <li><a href="Arun/arun.md">Arun</a></li>
+  <li><a href="Bharath/bharat.md">Bharath</a></li>
+</ul>
 
 ## Team Sec Rules and Responsibilities
 Start Date: 15th July 2024
 
 <details>
   <summary><strong>Daily Streaks 🌟</strong></summary>
-  Keep up your daily learning streaks to stay sharp!
+  <p>Keep up your daily learning streaks to stay sharp!</p>
 </details>
 
 <details>
   <summary><strong>Weekly Certifications 📜</strong></summary>
-  
-  - Get one certification each week.
-  - Complete a FreeCodeCamp certification every week.
-    
+  <ul>
+    <li>Get one certification each week.</li>
+    <li>Complete a FreeCodeCamp certification every week.</li>
+  </ul>
 </details>
 
 <details>
   <summary><strong>Monthly CTFs 🕵️‍♂️</strong></summary>
-  Join one or two Capture the Flag (CTF) challenges each month to practice your skills.
+  <p>Join one or two Capture the Flag (CTF) challenges each month to practice your skills.</p>
 </details>
 
 <details>
   <summary><strong>Project Completion 🚀</strong></summary>
-  Finish at least one project every 1.5 months.
-  You can work on projects together, but make sure to show your individual contributions.
+  <p>Finish at least one project every 1.5 months. You can work on projects together, but make sure to show your individual contributions.</p>
 </details>
 
 <details>
   <summary><strong>Daily Updates 📅</strong></summary>
-  Update your progress in the README file every day.
+  <p>Update your progress in the README file every day.</p>
 </details>
 
 <details>
   <summary><strong>Team Contributions 🤝</strong></summary>
-  All team members will be contributors to the repository for easy collaboration.
+  <p>All team members will be contributors to the repository for easy collaboration.</p>
 </details>
 
 ---
 
 <details>
   <summary><strong>Accountability ☕</strong></summary>
-  
-  - If you miss your responsibilities, you get three chances.
-  - After that, you owe everyone coffee or tea!
-    
+  <ul>
+    <li>If you miss your responsibilities, you get three chances.</li>
+    <li>After that, you owe everyone coffee or tea!</li>
+  </ul>
 </details>
 
 ---
