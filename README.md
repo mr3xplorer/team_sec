@@ -1,7 +1,7 @@
 # team_sec
 
 <p align="center">
-  <img src="docs/img/team_sec.png" alt="team_sec" width="50%">
+  <img src="docs/img/team_sec.png" alt="team_sec" width="30%">
 </p>
 
 <p align="center">
