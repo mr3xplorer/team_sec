@@ -1,11 +1,11 @@
 # Bharath J
 
 ## Overview
-- Brief introduction to Bharath’s role and contributions to the team.
+- Cybersecurity Aficionado | Ethical Hacking Enthusiast | Future Cybersecurity Professional | Tech Enthusiast Aiming to Safeguard Digital Landscapes
 
 ## Career Path
-- Current career focus and goals.
-- Specific areas of interest within cybersecurity and forensics.
+- Junior Security Analyst
+- Junior Security Analyst,Forensic Analyst
 - Long-term professional aspirations.
 
 ## Role Interested
