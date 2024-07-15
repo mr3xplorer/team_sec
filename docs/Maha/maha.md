@@ -1,4 +1,4 @@
-# MahaLakshmi V
+# Mahalakshmi V
 
 ## Overview
 - Hi, I'm Mahalakshmi emphasizes the automation of repetitive tasks in both digital forensics and software development. This includes automated data collection in forensic investigations, automated testing and deployment pipelines in software development, and decision-making processes.
