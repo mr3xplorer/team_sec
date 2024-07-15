@@ -1,7 +1,7 @@
 # Bharat
 
 ## Overview
-- Brief introduction to Akash’s role and contributions to the team.
+- Brief introduction to Bharath’s role and contributions to the team.
 
 ## Career Path
 - Current career focus and goals.
