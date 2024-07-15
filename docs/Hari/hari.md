@@ -13,3 +13,4 @@
 - Cyber security analyst
 - Forensic Investigation
 - Web Application Development
+- Project Management
