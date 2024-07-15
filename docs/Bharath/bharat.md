@@ -1,4 +1,4 @@
-# Bharat
+# Bharath J
 
 ## Overview
 - Brief introduction to Bharath’s role and contributions to the team.
