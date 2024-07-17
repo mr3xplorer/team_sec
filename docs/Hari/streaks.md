@@ -1,6 +1,7 @@
 # Streaks
 
-## Tryhackme Streaks https://tryhackme.com/p/hariruban20
+## Tryhackme Streaks 
+[profile](https://tryhackme.com/p/hariruban20)
 
 
 ## Leet Code Streaks
