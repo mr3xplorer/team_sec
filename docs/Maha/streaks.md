@@ -1,7 +1,10 @@
 # Streaks
 
-## Tryhackme Streaks
+- Tryhackme
+[Profile](https://tryhackme.com/p/mahavethamoorthy)
 
+- CodeChef 
+[Profile](https://www.codechef.com/users/maha_v)
 
-## Leet Code Streaks
-
+- HackerRank 
+[Profile](https://www.hackerrank.com/profile/v_mahalakshmi)
