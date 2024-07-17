@@ -10,12 +10,15 @@ It's used on everything from phones and laptops to servers and supercomputers.
 
 - **Grep, Egrep, Fgrep:** The grep filter searches a file for a particular pattern of characters, and displays all lines that contain that pattern. The pattern that is searched in the file is referred to as the regular expression. 
   -  In other terms, grep -E functions same as egrep and grep -F functions same as fgrep.
-  - **Syntax:**  grep "PATTERN" file.txt
+  - **syntax:**  grep "PATTERN" file.txt
 
 - **String Manipulations (STRing OPerationS):** String manipulations are operations performed on text strings, such as combining, splitting, replacing, or modifying characters and substrings.
-  - **Syntax (Splitting):**  (IFS=',' read -ra filename <<< "$text")
+  - **syntax (Splitting):**  (IFS=',' read -ra filename <<< "$text")
   
-- **tr:** Translate command(tr) can help you in number of ways, ranging from changing character cases in a string to replacing characters in a string. It's awesome at it's usage. Plus, it's the easiest command and a must know module for quick operations on strings.
-  - **Syntax:** tr [flags] [source]/[find]/[select] [destination]/[replace]/[change]
+- **tr:** Translate command(tr) can help you in number of ways, ranging from changing character cases in a string to replacing characters in a string. It's awesome at it's usage.
+  - **syntax:** tr [flags] [source]/[find]/[select] [destination]/[replace]/[change]
 
+- **awk:** The awk command in Linux is a powerful text-processing tool that allows you to manipulate and analyze data in files or strings based on patterns and actions.
+   - The -f flag and specifying the name of the script file.
+   - **syntax:** awk [flags] [select pattern/find(sort)/commands] [input file]
 
