@@ -1,7 +1,7 @@
 # Streaks
 
-## Tryhackme Streaks
+### Tryhackme Streaks
+https://tryhackme.com/p/nmsoulmates
 
-
-## Leet Code Streaks
+### Leet Code Streaks
 
