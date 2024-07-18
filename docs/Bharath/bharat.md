@@ -1,7 +1,7 @@
 # Bharath J
 
 ## Overview
-I am bharath, a passionate cybersecurity enthusiast with a Master of Science in Computer Science specializing in Information Security and Cyber Forensics. With a strong background in ethical hacking and a commitment to securing digital frontiers, I am dedicated to protecting information systems from emerging threats and vulnerabilities.
+I am bharath,deeply passionate about cybersecurity. I hold a Master of Science in Computer Science with a focus on Information Security and Cyber Forensics. I have a solid foundation in ethical hacking and an unwavering dedication to safeguarding digital environments. My goal is to defend information systems from new risks and weaknesses.
 
 ## Career Path
 - MSc in Computer Science specializing in Information Security and Cyber Forensics.
