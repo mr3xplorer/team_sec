@@ -5,7 +5,8 @@ I am Arun and  work on protecting systems, networks, and data from digital attac
 
 ## Career Path
 - B.Sc Mathematics & M.Sc Computer Science specialization in information security with cyber forensics.
-- Key responsibilities and skills for each role. 
+- Key responsibilities and skills for each role.
+- Promote new ideas, strengthen global security, and encourage collaboration across different areas.
 
 ## Role Interested
 - Ethical Hacking|Cyber security analyst|Forensic Investigation and functions.
