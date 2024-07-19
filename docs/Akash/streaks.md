@@ -1,8 +1,8 @@
 ## TryHackMe Streak
-![TryHackMe Streak](https://tryhackme-stats.vercel.app/api/streak?username=yogaakash1212_tryhackme_username&theme=dark&hide_border=false)
+[![TryHackMe Profile](https://img.shields.io/badge/TryHackMe-yogaakash1212-brightgreen)](https://tryhackme.com/p/yogaakash1212)
 
 ## LeetCode Streak
-![LeetCode Streak](https://leetcode-stats.vercel.app/api/streak?username=your_leetcode_username&theme=dark&hide_border=false)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-BqC1LZh7fq-brightgreen)](https://leetcode.com/u/BqC1LZh7fq/)
 
 ## CodeChef Streak
 [![CodeChef Profile](https://img.shields.io/badge/CodeChef-yogaakash1230-brightgreen)](https://www.codechef.com/users/yogaakash1230)
