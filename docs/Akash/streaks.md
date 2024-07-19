@@ -5,7 +5,8 @@
 ![LeetCode Streak](https://leetcode-stats.vercel.app/api/streak?username=your_leetcode_username&theme=dark&hide_border=false)
 
 ## CodeChef Streak
-![CodeChef Streak](https://codechef-stats.vercel.app/api/streak?username=yogaakash1230_username&theme=dark&hide_border=false)
+[![CodeChef Profile](https://img.shields.io/badge/CodeChef-yogaakash1230-brightgreen)](https://www.codechef.com/users/yogaakash1230)
+
 
 ## freeCodeCamp Streak
 ![freeCodeCamp Streak](https://freecodecamp-stats.vercel.app/api/streak?username=your_freecodecamp_username&theme=dark&hide_border=false)
