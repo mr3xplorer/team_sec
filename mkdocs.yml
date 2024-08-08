@@ -63,6 +63,9 @@ nav:
       - Certifications: members_template/certifications.md
       - CTF: members_template/ctf.md
       - Projects: members_template/projects.md
-
+  - SIH 2024:
+      - Problems: sih/problems.md
+      - Ideas: sih/idea.md
+      
 extra:
   generator: false
